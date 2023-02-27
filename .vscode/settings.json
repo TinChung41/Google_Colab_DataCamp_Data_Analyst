@@ -3,7 +3,10 @@
         "arange",
         "binom",
         "dropna",
+        "isin",
         "linspace",
-        "logit"
+        "logit",
+        "samp",
+        "strat"
     ]
 }
