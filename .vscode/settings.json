@@ -7,6 +7,7 @@
         "linspace",
         "logit",
         "samp",
+        "statsmodels",
         "strat"
     ]
 }
